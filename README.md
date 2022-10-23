@@ -22,7 +22,7 @@
 <p align="center">
       <a
         href="https://twitter.com/jagrut_sharma"
-        target="_blank"
+        target="blank"
         style="padding: 0.5rem"
         ><img
           align="center"
@@ -33,7 +33,7 @@
       /></a> &nbsp;
       <a
         href="https://linkedin.com/in/jagrut-sharma"
-        target="_blank"
+        target="blank"
         style="padding: 0.5rem"
         ><img
           align="center"
