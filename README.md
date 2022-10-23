@@ -30,7 +30,7 @@
           alt="jagrut_sharma"
           height="30"
           width="30"
-      /></a>
+      /></a> &nbsp;
       <a
         href="https://linkedin.com/in/jagrut-sharma"
         target="_blank"
