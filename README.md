@@ -111,12 +111,12 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagrut-sharma&show_icons=true&locale=en&layout=compact" alt="most-used-language" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagrut-sharma&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="most-used-language" /></p>
 
 <br>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagrut-sharma&show_icons=true&locale=en" alt="jagrut's-github-stats" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagrut-sharma&show_icons=true&locale=en&theme=gruvbox" alt="jagrut's-github-stats" /></p>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrut-sharma&" alt="ongoing-streak-jagrut" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrut-sharma&&theme=gruvbox" alt="ongoing-streak-jagrut" /></p>
