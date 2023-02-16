@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with **learning about web dev**.
 - 💬 Ask me about **web development**.
 - ⚡ Fun fact: **I love action movies**.
-- 📝 I regularly write articles **[here](https://jagrut-sharma.netlify.app/blogs.html)**
+- 📝 Find my technical articles **[here](https://jagrut-sharma.hashnode.dev/)**
 
 <br>
 
